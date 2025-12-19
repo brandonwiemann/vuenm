@@ -1,6 +1,6 @@
 # Vue and NestJS Monorepo Workspace
 
-A full-stack PNPM workspace with a Vue UI, NestJS API, and shared libraries.
+Starter template for a full-stack typescript project using Vue, NestJS, and PostgreSQL.
 
 ## Requirements
 
