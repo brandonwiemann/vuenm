@@ -1,0 +1,13 @@
+# System Files
+.DS_Store
+
+# Dependencies
+node_modules
+
+# Environment Variables
+.env
+.env.*
+!env.example
+
+# IDEs
+.idea
