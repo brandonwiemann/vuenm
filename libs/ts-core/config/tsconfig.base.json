@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true,
+    "removeComments": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "isolatedModules": false,
+    "skipLibCheck": true,
+    "incremental": false,
+    "strict": false,
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "strictBindCallApply": true,
+    "strictNullChecks": false,
+    "verbatimModuleSyntax": false,
+    "noFallthroughCasesInSwitch": false
+  }
+}

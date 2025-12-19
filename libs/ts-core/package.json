@@ -1,0 +1,25 @@
+{
+  "name": "@vuenm/ts-core",
+  "version": "1.0.0",
+  "description": "Core TypeScript library for Echosys Apps",
+  "exports": {
+    "./types": "./src/types/index.ts",
+    "./utils": "./src/utils/index.ts"
+  },
+  "scripts": {
+    "type-check": "tsc --noEmit -p tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/qs": "^6.14.0",
+    "typescript": "catalog:"
+  },
+  "peerDependencies": {
+    "date-fns": "catalog:",
+    "uuid": "catalog:",
+    "qs": "catalog:"
+  }
+}
